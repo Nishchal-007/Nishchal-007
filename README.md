@@ -1,7 +1,7 @@
-<!-- <p align="center">
-  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
+<p align="center">
+  <img src="https://videohive.img.customer.envatousercontent.com/files/302f8530-dcca-433b-b8ee-ddc29d6da06b/inline_image_preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&max-h=8000&max-w=590&s=07d8de36fe85aba7c3a425a60dadf578" height="300" alt="pic" />
 </p>
-<br> -->
+<br>
 
   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Nishchal Singi </h1>
   <h3 align="center">Developer | Data Scientist | ML Enthusiast </h3>
@@ -67,6 +67,8 @@
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nishchal-007&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="lol" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Nishchal-007&show_icons=true&locale=en&theme=chartreuse-dark" alt="lol" width="410" /></p>
+<br><br><br>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishchal-007&theme=dracula"></p>
 <br><br><br><br><br>
 
 <hr>
