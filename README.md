@@ -26,10 +26,11 @@
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
-<br><br>
+
+<hr>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me . . . .***
 
 ✔ Callme: ***TeamWorker*** 😊 <br>
 ✔ I’m currently working with <b>EMORY</b> on <b>GSOC'21<b> Project<br>
@@ -39,7 +40,7 @@
 
   <hr>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools . . . .***
   <br>
    <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 <br />
@@ -68,11 +69,9 @@
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nishchal-007&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="lol" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nishchal-007&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="lol"/></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=Nishchal-007&show_icons=true&locale=en&theme=chartreuse-dark" alt="lol" width="410" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishchal-007&theme=dracula"></p>
-<br><br>
-
 <hr>
 <!-- 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
