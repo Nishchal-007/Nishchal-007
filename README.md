@@ -4,7 +4,7 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 <br>
 
-  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Nishchal Singi </h1>
+  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I am Nishchal Singi </h1>
   <h3 align="center">Developer | Data Scientist | ML Enthusiast </h3>
   <p align="center">
     <a href="https://www.linkedin.com/in/nishchal-singi-6b37901ab/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111465.png" alt="linkedin" height="40" width="40" /></a>  
@@ -20,7 +20,7 @@
 <p align="center">
   <em>
     Hello, I am Nishchal Singi a <b>final year</b> undergraduate from <a href="https://kmit.in/"> <b>Keshav Memorial Institute Of Technology</b>, Hyderabad, India</a>. <br>
-    <b>A passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    <b>A passionate self-learner and a <b>Machine Learning Enthusiast</b> who is <b>obsessed</b>
     with <b>Data science</b> and always looking to find patterns of which are hidden in the data !!
   </em> 
   <br>
@@ -30,7 +30,7 @@
 <hr>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me . . . .***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">&nbsp;***About me . . . .***
 
 ✔ Callme: ***TeamWorker*** 😊 <br>
 ✔ I’m currently working with <b>EMORY</b> on <b>GSOC'21<b> Project<br>
@@ -40,7 +40,7 @@
 
   <hr>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools . . . .***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">&nbsp;***My working tools . . . .***
   <br>
    <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 <br />
@@ -67,7 +67,7 @@
   <br><br><br><br><br>
   <hr>
   <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nishchal-007&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="lol"/></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=Nishchal-007&show_icons=true&locale=en&theme=chartreuse-dark" alt="lol" width="410" /></p>
