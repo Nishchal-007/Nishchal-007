@@ -19,7 +19,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Nishchal Singi a <b>final year</b> undergraduate from <a href="https://kmit.in/"> <b>Keshav Memorial Institute Of Technology</b>, Hyderabad, India</a>. <br>
+    Hello, I am Nishchal Singi a <b>Software Engineer.</b><br>
     <b>A passionate self-learner and a <b>Machine Learning Enthusiast</b> who is <b>obsessed</b>
     with <b>Data science</b> and always looking to find patterns of which are hidden in the data !!
   </em> 
