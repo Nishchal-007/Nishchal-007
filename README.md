@@ -33,9 +33,8 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">&nbsp;***About me . . . .***
 
 ✔ Callme: ***TeamWorker*** 😊 <br>
-✔ I’m currently working with <b>EMORY</b> on <b>GSOC'21<b> Project<br>
-✔ I’m currently learning about **deep learning**🥰<br>
-✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
+✔ I’m currently pursuing my Masters in Computer Science at <b>University Of Illinois at Chicago (UIC)</b><br>
+✔ I’m currently learning about **Deep learning**🥰<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
 
   <hr>
@@ -63,7 +62,7 @@
   [![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&link=https://github.com/Nishchal-007)](https://github.com/Nishchal-007)
   [![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular&link=https://github.com/Nishchal-007)](https://github.com/Nishchal-007) 
   [![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs&link=https://github.com/Nishchal-007)](https://github.com/Nishchal-007)
-  
+  <!-- 
   <br><br><br><br><br>
   <hr>
   <p align="center">
@@ -71,9 +70,8 @@
  
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nishchal-007&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="lol"/></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=Nishchal-007&show_icons=true&locale=en&theme=chartreuse-dark" alt="lol" width="410" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishchal-007&theme=dracula"></p>
 <hr>
-<!-- 
+
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=Nishchal-007&theme=juicyfresh&no-bg=true" />
  -->
